@@ -31,7 +31,7 @@ $("#Statement4").text ("Charades: Name the film: Castaway");
 }
      else if (rnd==3) {
 
-$("#Statement4").text ("Name the film: “ life is like a box of chocolates");
+$("#Statement4").text ("Name the film: life is like a box of chocolates");
 
 }
         else if (rnd==4) {
@@ -41,7 +41,7 @@ $("#Statement4").text ("Charades: Name the film: Frozen");
 }
         else if (rnd==5) {
 
-$("#Statement4").text ("Charades: Name the TV show: “Big bang theory");
+$("#Statement4").text ("Charades: Name the TV show:Big bang theory");
 
 }
         else if (rnd==6) {
