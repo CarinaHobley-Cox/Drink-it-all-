@@ -41,7 +41,7 @@ $("#Statement4").text ("Charades: Name the film: Frozen");
 }
         else if (rnd==5) {
 
-$("#Statement4").text ("Charades: Name the TV show: “Big bang theory");
+$("#Statement4").text ("Charades: Name the TV show: Big bang theory");
 
 }
         else if (rnd==6) {
