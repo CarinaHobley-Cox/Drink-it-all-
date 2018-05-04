@@ -26,7 +26,7 @@ $("#Statement4").text ("Name as many Disney characters");
 }
  else if (rnd==2) {
 
-$("#Statement4").text ("Charades: Name the film: “Castaway");
+$("#Statement4").text ("Charades: Name the film: Castaway");
 
 }
      else if (rnd==3) {
@@ -36,7 +36,7 @@ $("#Statement4").text ("Name the film: “ life is like a box of chocolates");
 }
         else if (rnd==4) {
 
-$("#Statement4").text ("Charades: Name the film: “Frozen");
+$("#Statement4").text ("Charades: Name the film: Frozen");
 
 }
         else if (rnd==5) {
@@ -46,12 +46,12 @@ $("#Statement4").text ("Charades: Name the TV show: “Big bang theory");
 }
         else if (rnd==6) {
 
-$("#Statement4").text ("Charades: Name the TV show: “Doctor who");
+$("#Statement4").text ("Charades: Name the TV show: Doctor who");
 
 }
            else if (rnd==7) {
 
-$("#Statement4").text ("Charades: Name the TV show: “Game of thrones");
+$("#Statement4").text ("Charades: Name the TV show: Game of thrones");
 
 }
            else if (rnd==8) {
