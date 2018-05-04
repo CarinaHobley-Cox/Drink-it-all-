@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="jquery-mobile/jquery-1.8.3.min.js" type="text/javascript"></script>
 <script src="jquery-mobile/jquery.mobile-1.4.5.min.js" type="text/javascript"></script>
-    <script src="index.js" type="text/javascript"></script>
+    <script src="camera.js" type="text/javascript"></script>
     <script src="cordova.js" type="text/javascript"></script>
     <script src="Letsgetstarted.js"></script>
     <script src="CrazyNight.js"></script>
@@ -101,10 +101,7 @@
         <h2> Rule of the game answer as many questions/statements right to win points for you team, each question you get round you each player drinks 3 sips</h2>
         <a href="#pageone"class="ui-btn">Main Menue</a>
             <a href="#pagenine"class="ui-btn" id="Next">Next</a>
-            <label for="phonegapcamera"> When "Take a selfie with two or more friends" statment comes up click the photo button </label>
-       	<button id="phonegapcamera" onclick="capturePhoto();">Capture Photo</button> <br>
-       
-		<img style="display:none;width:200px;height:200px;" id="image" src="" />
+            
 </div>
 
 <div data-role="footer" data-position="fixed">
@@ -169,6 +166,10 @@
     
     <a href="#pageone"class="ui-btn">Main Menue</a>
     <a class="ui-btn" id="TeamChallenge">Next</a>
+    <label for="phonegapcamera"> When "Take a selfie with two or more friends" statment comes up click the photo button </label>
+       	<button id="phonegapcamera" onclick="capturePhoto()">Capture Photo</button> <br>
+       
+		<img style="display:none;width:200px;height:200px;" id="image" src="" />
     <h1 id="Statement4"></h1>
 </div>
 
